@@ -1,0 +1,9 @@
+
+1、环境为python3.8
+2、文件说明：
+	NTFS_recover.py为核心代码
+	screen.py为GUI代码
+	resume_file.exe为打包好的程序
+3、运行
+	需要以管理员身份运行
+	
